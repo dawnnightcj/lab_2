@@ -1,5 +1,5 @@
 #!/bin/bash
-# Authors : Tianchen Wang
+# Authors : Tianchen Wang, Keyu Wu
 # Date: 1/31/19
 
 # Problem 1 code
